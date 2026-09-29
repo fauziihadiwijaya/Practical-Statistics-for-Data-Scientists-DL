@@ -99,7 +99,3 @@ Beberapa visualisasi yang digunakan:
 - Density plot
 - Hexbin plot
 
-### Notebook
-
-```text
-Chapter_1_Exploratory_Data_Analysis_Practical_Statistics.ipynb
