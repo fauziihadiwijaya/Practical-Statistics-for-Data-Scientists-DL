@@ -67,27 +67,6 @@ Buku *Practical Statistics for Data Scientists, 2nd Edition* terdiri dari **7 ch
 
 ---
 
-# 📌 Chapter 1 — Exploratory Data Analysis
-
-Chapter 1 membahas bagaimana data dipahami dan dieksplorasi sebelum dilakukan analisis atau pemodelan.
-
-### Topics
-
-- Structured and rectangular data
-- Mean
-- Median
-- Trimmed mean
-- Weighted mean
-- Variability
-- Percentiles
-- Histograms
-- Density estimation
-- ECDF
-- Categorical data
-- Correlation
-- Scatter plot
-- Multivariable analysis
-- Outlier analysis
 
 ### Visualization
 
