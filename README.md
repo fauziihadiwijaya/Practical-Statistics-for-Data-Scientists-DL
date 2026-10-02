@@ -17,6 +17,8 @@
 
 ---
 
+<img src="Practical Statistics for Data Scientists.jpg" width="300">
+
 ## 📚 About This Repository
 
 Repository ini berisi rangkuman, penjelasan konsep, visualisasi, dan implementasi Python berdasarkan buku:
